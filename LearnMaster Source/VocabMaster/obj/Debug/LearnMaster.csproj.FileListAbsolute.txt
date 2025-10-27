@@ -127,3 +127,8 @@ C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\LearnMaster.csproj.C
 C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\LearnMas.E9D0A2C1.Up2Date
 C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\VocabMaster.exe
 C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\VocabMaster.pdb
+C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\VocabMaster.exe.config
+C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\bin\Debug\VocabMaster.exe.manifest
+C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\bin\Debug\VocabMaster.application
+C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\VocabMaster.exe.manifest
+C:\DEV\LearnMaster\LearnMaster Source\VocabMaster\obj\Debug\VocabMaster.application

@@ -62,6 +62,11 @@ namespace VocabMaster
                 tableLayoutPanelImageEquation.Visible = true;
                 if (dataSet._isEquation && dataSet._equation.Length > 0)
                 {
+                    tableLayoutPanel3.RowStyles[2].SizeType = SizeType.Absolute;
+                    tableLayoutPanel3.RowStyles[2].Height = 60;
+                    tableLayoutPanel3.RowStyles[1].SizeType = SizeType.AutoSize;
+                    tableLayoutPanel3.RowStyles[3].SizeType = SizeType.Absolute;
+                    tableLayoutPanel3.RowStyles[3].Height = 250;
                     RenderEquation(dataSet._equation);
                     pictureBoxEquation.Visible = true;
                 }

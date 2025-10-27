@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\LearnMaster\\LearnMaster Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|solutionrelative:vocabmaster\\formstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|solutionrelative:vocabmaster\\formstudy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|c:\\dev\\learnmaster\\learnmaster source\\vocabmaster\\formnewdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|solutionrelative:vocabmaster\\formnewdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\LearnMaster.csproj|solutionrelative:vocabmaster\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formnewdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|solutionrelative:vocabmaster\\formnewdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formnewdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|solutionrelative:vocabmaster\\formnewdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|solutionrelative:vocabmaster\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|solutionrelative:vocabmaster\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|C:\\DEV\\LearnMaster\\LearnMaster Source\\vocabmaster\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE3F1E-CBC2-403A-B7CD-1CAF002F27BA}|VocabMaster\\VocabMaster.csproj|solutionrelative:vocabmaster\\dataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormMain.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormMain.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormMain.cs [Design]",
+              "RelativeToolTip": "VocabMaster\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T16:30:48.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormNewDataset.cs [Design]",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormNewDataset.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormNewDataset.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormNewDataset.cs [Design]",
+              "RelativeToolTip": "VocabMaster\\FormNewDataset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T16:30:48.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormStudy.cs [Design]",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormStudy.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormStudy.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormStudy.cs [Design]",
+              "RelativeToolTip": "VocabMaster\\FormStudy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T16:30:48.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStudy.cs",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormStudy.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormStudy.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormStudy.cs",
+              "RelativeToolTip": "VocabMaster\\FormStudy.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T16:30:48.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormNewDataset.cs",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormNewDataset.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormNewDataset.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormNewDataset.cs",
+              "RelativeToolTip": "VocabMaster\\FormNewDataset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-14T16:30:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNewDataset.cs [Design]",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormNewDataset.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormNewDataset.cs",
+              "ToolTip": "N:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormNewDataset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-14T16:30:48.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dataset.cs",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\Dataset.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\Dataset.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\Dataset.cs",
+              "RelativeToolTip": "VocabMaster\\Dataset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-09-14T16:30:48.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormMain.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormMain.cs",
+              "ToolTip": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormMain.cs",
+              "RelativeToolTip": "VocabMaster\\FormMain.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAHIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-14T16:30:48.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormMain.cs",
+              "RelativeDocumentMoniker": "VocabMaster\\FormMain.cs",
+              "ToolTip": "N:\\DEV\\LearnMaster\\LearnMaster Source\\VocabMaster\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-09-14T16:30:48.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
